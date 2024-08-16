@@ -1,0 +1,18 @@
+{ margin: 0%; padding: 0%;}
+.cabecalho{
+background-color: rgb(0, 0, 0);
+display: flex ;
+padding: 1.5%;
+}
+h1{
+    font-size: 100px;
+    color: rgb(19, 185, 88);
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 30%;
+}
+.cabecalho2{
+background-color: rgb(19, 185, 88);
+padding: 1.5%;
+display: flex;
+}
